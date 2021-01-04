@@ -1,3 +1,3 @@
 # reqres-API-tutorial-for-YouTube
 
-Link to tutorial - https://youtu.be/Jnm4WywacQc 
+Link to tutorial - https://youtu.be/mxlNGxTYW2I
